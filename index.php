@@ -25,7 +25,7 @@
     <br><br>
     <a href="http://ip-labs-istbd-32.atwebpages.com/lab3/lab3.php">Лабораторная работа №3</a>
     <br><br>
-    <a href="">Лабораторная работа №4</a>
+    <a href="http://ip-labs-istbd-32.atwebpages.com/lab4/lab4.php">Лабораторная работа №4</a>
    </font>
   </p>
  </body>
